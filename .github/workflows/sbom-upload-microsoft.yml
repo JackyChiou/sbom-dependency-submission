@@ -18,3 +18,4 @@ jobs:
       with:
         name: sbom
         path: _manifest/spdx_2.2
+        retention-days: 10
